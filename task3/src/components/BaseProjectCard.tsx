@@ -8,7 +8,7 @@ import {
   OverlayTrigger,
   Tooltip,
 } from "react-bootstrap";
-import Message from "../components/Message";
+import Message from "./Message";
 
 interface childProps {
   foo: typeProjList;

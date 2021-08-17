@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b5ce54b0-a204-4879-b80d-4d1a1103f293/deploy-status)](https://app.netlify.com/sites/obifortune/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d5f8d97-3bad-473b-9f94-bc99b7df0cd9/deploy-status)](https://app.netlify.com/sites/hng-frontend-stage2/deploys)
 
 # Getting Started with Create React App
 
