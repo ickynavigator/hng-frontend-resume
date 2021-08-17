@@ -48,6 +48,9 @@ const HomeScreen: React.FC = () => {
         <h4 className="text-muted">{ownerTitle}</h4>
 
         <h5 className="text-muted">Job Status</h5>
+        <h5 className="text-muted">Currently Interning at <a href="https://hng.tech">
+          <img src="https://hng.tech/img/brand-logo.png" alt="" />
+          </a></h5>
         <Message variant={jobStatus.messageAlert}>
           <FontAwesomeIcon
             icon={jobStatus.messageIcon}
